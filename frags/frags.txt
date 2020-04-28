@@ -1,0 +1,5 @@
+<script src="../js/jquery-1.12.1.min"></script>
+	<script src="../js/jquery.fittext.js"></script>
+	<script>
+	  // jQuery("tabContent").fitText();
+	</script>
